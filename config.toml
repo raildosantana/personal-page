@@ -1,4 +1,4 @@
-baseurl = "raildo.netlify.app"
+
 title = "raildosantana"
 
 theme = "hugo-coder"
