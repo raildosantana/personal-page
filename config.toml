@@ -1,4 +1,4 @@
-baseurl = "http://www.example.com"
+baseurl = "raildo.netlify.app"
 title = "raildosantana"
 
 theme = "hugo-coder"
